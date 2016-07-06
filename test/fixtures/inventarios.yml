@@ -1,11 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  NumSerie: MyString
-  wheelSize: 1
-  description: MyString
+  NumSerie: Mol15
+  wheelSize: 15
+  description: 15" molds for wheels
 
 two:
-  NumSerie: MyString
-  wheelSize: 1
-  description: MyString
+  NumSerie: Vul18
+  wheelSize: 18
+  description: vulcanizer for wheels 18
+
+three:
+  NumSerie: Rin18
+  wheelSize: 18
+  description: rins for 22"

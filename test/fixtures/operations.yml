@@ -2,7 +2,7 @@
 
 one:
   name: Molds
-  description: Molds for 15" rin
+  description: Forge Molds for 15" rin
 
 two:
   name: vulcanize
@@ -10,5 +10,5 @@ two:
 
 three:
   name: rins
-  description: rins for 22"
+  description: Making rins for 22"
 
