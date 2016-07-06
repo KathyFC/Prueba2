@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Molds
+  description: Molds for 15" rin
+
+two:
+  name: vulcanize
+  description: vulcanize wheels for 18"
+
+three:
+  name: rins
+  description: rins for 22"
+
